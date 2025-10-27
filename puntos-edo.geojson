@@ -2,7 +2,6 @@
   "type": "FeatureCollection",
   "features": [
     { "type": "Feature", "properties": { "NOMBRE": "ENDE DEORURO S.A." }, "geometry": { "type": "Point", "coordinates": [ -67.11089126765728, -17.98287211476605 ] } },
-    { "type": "Feature", "properties": { "NOMBRE": "ENDE DEORURO S.A. SUCURSAL NORTE" }, "geometry": { "type": "Point", "coordinates": [ -67.1006841212511, -17.95494341455147 ] } },
     { "type": "Feature", "properties": { "NOMBRE": "COTEOR R.L. CENTRO" }, "geometry": { "type": "Point", "coordinates": [ -67.11392719298601, -17.97004591024184 ] } },
     { "type": "Feature", "properties": { "NOMBRE": "COTEOR R.L. NORTE" }, "geometry": { "type": "Point", "coordinates": [ -67.10995819419622, -17.953367804802106 ] } },
     { "type": "Feature", "properties": { "NOMBRE": "COTEOR R.L. SUD" }, "geometry": { "type": "Point", "coordinates": [ -67.13040601462126, -17.97913778551131 ] } },
@@ -44,4 +43,5 @@
     { "type": "Feature", "properties": { "NOMBRE": "PRO-MUJER IFD NORTE" }, "geometry": { "type": "Point", "coordinates": [ -67.11149744689465, -17.949951809137247 ] } },
     { "type": "Feature", "properties": { "NOMBRE": "PRO-MUJER IFD" }, "geometry": { "type": "Point", "coordinates": [ -67.11503695696592, -17.97209783389304 ] } }
   ]
+
 }
